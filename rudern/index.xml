@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RCA Rudern</title>
+    <link>https://rc-aken.de/rudern/</link>
+    <description>Rudern beim Ruder-Club Aken e.V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 18 Apr 2017 18:56:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://rc-aken.de/rudern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

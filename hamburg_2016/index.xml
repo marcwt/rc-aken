@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RCA Hamburg 2016</title>
+    <link>https://rc-aken.de/hamburg_2016/</link>
+    <description>Kirchbootfahrt Aken -Hamburg zum Tag des Rudersports beim RC Allemania</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 21 Oct 2016 19:07:17 +0300</lastBuildDate>
+    
+	<atom:link href="https://rc-aken.de/hamburg_2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
